@@ -1,5 +1,5 @@
 # Dynamic-Time-Warping-for-Python
-Dynamic Time Warpint (DTW) function coded in Python. 
+Dynamic Time Warping (DTW) function coded in Python. 
 
 To use this file you will need to download and install Cython and Numpy.
 
