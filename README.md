@@ -20,10 +20,15 @@ The function takes as an input 2 numpy arrays (of same dimentions) and returns t
 
 
 The code includes 4 types of DTW. 
+
 getDistanceMatrix_Full: Vanlia version of DTW 
+
 getDistanceMatrix_Percentage_Band: Ratanamahatana-Keogh Band with DTW 
+
 getDistanceMatrix_Fixed_Band: Sakoe-Chiba Band with DTW 
+
 getDistanceMatrix_Parallelogram_Band: Itakura Parallelogram version of DTW
+
 getDistanceMatrix_Euc: The normal Euclidean Distance
 
 The code has been fully Cythonised to get the smallest of computation times. 
