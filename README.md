@@ -12,6 +12,7 @@ This should generate some files and you will be ready to code!
 Once set up is ready, insert the following lines in your script: 
 
 from DTW_pyx import * 
+
 yourVariableName = NameDTW()
 
 and you are ready to go. 
